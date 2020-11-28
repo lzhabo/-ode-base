@@ -20,12 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="40164891-2e2f-49b1-ad07-90eed86b8921" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jsBase/arrayMethods.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsBase/async-await.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jsBase/object2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/01_types.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/02_interfaces.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/03_enum.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/04_functions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/05_classes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/06_guards.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/07_generic.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/typescript/08_operators.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsBase/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/jsBase/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsBase/promise.js" beforeDir="false" afterPath="$PROJECT_DIR$/jsBase/promise.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +55,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -69,12 +73,20 @@
       <option name="presentableId" value="Default" />
       <updated>1606409529806</updated>
       <workItem from="1606409530997" duration="7934000" />
-      <workItem from="1606582828433" duration="3312000" />
+      <workItem from="1606582828433" duration="3404000" />
+      <workItem from="1606593958958" duration="3986000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/typescript/03_enum.js" />
+        <option value="$PROJECT_DIR$/typescript/04_functions.js" />
+        <option value="$PROJECT_DIR$/typescript/05_classes.js" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -86,11 +98,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1606501934045">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606594109018">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1606501934045" />
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1606594109018" />
+    <state x="405" y="138" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606595257216">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="405" y="138" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1606595257216" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1606597129843">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1606597129843" />
   </component>
 </project>
